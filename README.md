@@ -1,7 +1,7 @@
 CodeIgniter Core Output extension
 =============
 
-This file extends the functionality of CodeIgniter's core output library. This has been tested with CodeIgniter 2.1.0.
+This file extends the functionality of CodeIgniter's core output library to better manage cached paths. This has been tested with CodeIgniter 2.1.0.
 
 ##Installation
 
